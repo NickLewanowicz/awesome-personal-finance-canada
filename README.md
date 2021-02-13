@@ -55,6 +55,7 @@
 
 - [McGill Personal Finance Essentials](https://www.mcgillpersonalfinance.com) - A course by McGill University providing the knowledge and confidence to make a lifetime of smart financial decisions..
 - [Investment Vehicles, Insurance, and Retirement](https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial) - A course by Khan Acadameny that describes mutual funds, ETFs, retirement accounts, life insurance and hedge funds.
+- [Wealthsimple Investing Master Class](https://www.wealthsimple.com/en-ca/class/investing-master-class/) - A 10-part, 45 minute course covering investment basics.
 
 ### Books
 - [The Wealthy Renter](https://www.goodreads.com/book/show/28673347-the-wealthy-renter) - A balanced look at the cost of home ownership in Canada
