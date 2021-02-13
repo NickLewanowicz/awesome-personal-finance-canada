@@ -65,6 +65,7 @@
 - [Wealthica](https://wealthica.com) - A service that aggregates all your accounts and assets into a single dashboard.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
+- [LunchMoney](https://lunchmoney.app/) - Delightfully simple personal finance & budgeting
 
 ### Calculators
 
