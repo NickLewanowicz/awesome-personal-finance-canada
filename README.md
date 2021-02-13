@@ -2,6 +2,7 @@
 
 ## Contents
 
+#### Resources
 - [Banking Services](#banking-services)
 - [Investment Services](#investment-services)
 - [Blogs](#blogs)
@@ -12,6 +13,10 @@
 - [Tools](#tools)
 - [Calculators](#calculators)
 
+#### Key Topics
+- [Registered Accounts](#registered-accounts)
+- [Unregistered Accounts](#unregistered-accounts)
+- [Common Personal Finance Terms/Concepts](#common-personal-finance-terms)
 
 ## Resources
 
@@ -81,7 +86,7 @@
 - [Capital Gains Tax](https://www.moneysense.ca/save/taxes/capital-gains-explained/)
 - [ACB - Adjusted Cost Basis](https://www.adjustedcostbase.ca/blog/how-to-calculate-adjusted-cost-base-acb-and-capital-gains/)
 
-### Common Personal Finance Terms/Concepts
+### Common Personal Finance Terms
 
 - [Power of compound interest](https://www.canadalife.com/blog/investing-saving/how-to-take-advantage-of-compound-growth.html)
 - [DCA: Dollar Cost Averaging](https://www.getsmarteraboutmoney.ca/invest/investing-basics/getting-started/dollar-cost-averaging/)
