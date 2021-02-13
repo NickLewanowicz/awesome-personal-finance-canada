@@ -86,4 +86,3 @@
 - [Power of compound interest](https://www.canadalife.com/blog/investing-saving/how-to-take-advantage-of-compound-growth.html)
 - [DCA: Dollar Cost Averaging](https://www.getsmarteraboutmoney.ca/invest/investing-basics/getting-started/dollar-cost-averaging/)
 - [FIRE: Financial independence and retire early](https://www.cpacanada.ca/en/news/world/2019-10-23-fire-movement)
-- 
