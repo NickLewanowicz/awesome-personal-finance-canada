@@ -92,3 +92,9 @@
 - [Power of compound interest](https://www.canadalife.com/blog/investing-saving/how-to-take-advantage-of-compound-growth.html)
 - [DCA: Dollar Cost Averaging](https://www.getsmarteraboutmoney.ca/invest/investing-basics/getting-started/dollar-cost-averaging/)
 - [FIRE: Financial independence and retire early](https://www.cpacanada.ca/en/news/world/2019-10-23-fire-movement)
+
+### Home Buyer Benefits
+
+- [HBP: Home Buyer Plan](https://www.ratehub.ca/rrsp-home-buyer) - Ability to use funds from your RRSP toward your downpayment
+- [Land Transfer Tax Rebate](https://www.ratehub.ca/land-transfer-tax-rebate) - Rebate on land transfer fees
+- [First-Time Home Buyers Tax Credit](https://www.ratehub.ca/first-time-home-buyer-tax-credit) - Help recover closing costs such as legal expenses, inspections, and land transfer taxes.
