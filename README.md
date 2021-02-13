@@ -17,6 +17,7 @@
 - [Registered Accounts](#registered-accounts)
 - [Unregistered Accounts](#unregistered-accounts)
 - [Common Personal Finance Terms/Concepts](#common-personal-finance-terms)
+- [Home Buyer Benefits](#home-buyer-benefits)
 
 ## Resources
 
