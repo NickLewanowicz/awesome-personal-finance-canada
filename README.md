@@ -70,6 +70,7 @@
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
 - [LunchMoney](https://lunchmoney.app/) - Delightfully simple personal finance & budgeting.
 - [Ghostfolio](https://ghostfol.io/) - Open source wealth management software.
+- [KeepRule](https://keeprule.com) - AI-powered investment discipline tracking from 26 legendary investors including Buffett, Munger, and Dalio.
 
 ### Calculators
 
