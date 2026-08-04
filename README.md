@@ -77,6 +77,7 @@
 - [Mortgage Calculator](https://www.ratehub.ca/mortgage-payment-calculator) - Calculate mortgage payments, monthly expenses, total interest paid, etc.
 - [Interest Calculator](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/) - Calculate the amount of interest for compounding investments.
 - [Retirement Calculator](https://www.wealthsimple.com/en-ca/tool/retirement-calculator/) - See an approximation of your retirement based on your current savings and expected future savings.
+- [Debt Payoff Calculator](https://nutilz.com/debt-payoff-calculator) - Compare the debt snowball and avalanche methods side by side to see which pays off debt faster and saves more interest. Free, no signup.
 
 ## Key Topics
 
