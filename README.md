@@ -77,6 +77,7 @@
 - [Mortgage Calculator](https://www.ratehub.ca/mortgage-payment-calculator) - Calculate mortgage payments, monthly expenses, total interest paid, etc.
 - [Interest Calculator](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/) - Calculate the amount of interest for compounding investments.
 - [Retirement Calculator](https://www.wealthsimple.com/en-ca/tool/retirement-calculator/) - See an approximation of your retirement based on your current savings and expected future savings.
+- [TidyCalcs](https://www.tidycalcs.com) - Free calculators for mortgages, loans, debt payoff, retirement planning, and net worth. No signup required.
 
 ## Key Topics
 
