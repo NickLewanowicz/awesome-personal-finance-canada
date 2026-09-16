@@ -78,6 +78,8 @@
 - [Interest Calculator](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/) - Calculate the amount of interest for compounding investments.
 - [Retirement Calculator](https://www.wealthsimple.com/en-ca/tool/retirement-calculator/) - See an approximation of your retirement based on your current savings and expected future savings.
 
+- [Future Value Calculator](https://future-value-calculator.com/) - Project future value with monthly deposits, withdrawals, inflation, employer matching, and lower/middle/higher scenarios.
+
 ## Key Topics
 
 ### Registered Accounts
