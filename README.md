@@ -77,6 +77,7 @@
 - [Mortgage Calculator](https://www.ratehub.ca/mortgage-payment-calculator) - Calculate mortgage payments, monthly expenses, total interest paid, etc.
 - [Interest Calculator](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/) - Calculate the amount of interest for compounding investments.
 - [Retirement Calculator](https://www.wealthsimple.com/en-ca/tool/retirement-calculator/) - See an approximation of your retirement based on your current savings and expected future savings.
+- [UseCOS](https://usecos.app/) - Zero-ad, client-side Canadian mortgage payment, stress-test renewal, and CRA payroll tax calculators with open-source reference implementations ([Mortgage Math](https://github.com/rivlosys/canadian-mortgage-math-engine), [Paycheck Tax Engine](https://github.com/rivlosys/canadian-paycheck-tax-engine)).
 
 ## Key Topics
 
