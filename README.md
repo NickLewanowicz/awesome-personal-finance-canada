@@ -73,6 +73,7 @@
 
 ### Calculators
 
+- [Calculation Hub Compound Interest Calculator](https://calculation-hub.com/financial/compound-interest) - Explore compound growth with contributions and optional inflation assumptions; not a Canadian tax or investment-advice tool.
 - [Income Tax Calculator](http://simpletax.ca/calculator) - Calculate the amount of income tax you should pay based on your income, capital gains, dividends, etc.
 - [Mortgage Calculator](https://www.ratehub.ca/mortgage-payment-calculator) - Calculate mortgage payments, monthly expenses, total interest paid, etc.
 - [Interest Calculator](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/) - Calculate the amount of interest for compounding investments.
