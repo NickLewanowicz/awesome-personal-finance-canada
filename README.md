@@ -77,6 +77,7 @@
 - [Mortgage Calculator](https://www.ratehub.ca/mortgage-payment-calculator) - Calculate mortgage payments, monthly expenses, total interest paid, etc.
 - [Interest Calculator](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/) - Calculate the amount of interest for compounding investments.
 - [Retirement Calculator](https://www.wealthsimple.com/en-ca/tool/retirement-calculator/) - See an approximation of your retirement based on your current savings and expected future savings.
+- [Canada Tax Planner](https://canadataxplanner.com/) - Calculate federal and provincial income tax and take-home pay for any province or territory, and compare RRSP, TFSA and FHSA contributions.
 
 ## Key Topics
 
